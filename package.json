@@ -1,0 +1,12 @@
+{
+  "name": "x-tweet-seo",
+  "version": "1.0.0",
+  "description": "SEO engine and discovery accelerator for X-Tweet ecosystem",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "generate": "node generate-sitemaps.js",
+    "og": "node generate-og-images.js"
+  },
+  "license": "MIT"
+}
